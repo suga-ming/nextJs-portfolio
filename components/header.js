@@ -34,7 +34,7 @@ export default function Header() {
               href="https://boyeong-development.notion.site/f106b2b9c7dd483280b32ace10e31da1"
               className="mr-5 hover:text-gray-900"
             >
-              Contact
+              이력서
             </a>
           </nav>
           <DarkModeToggleBoutton />
